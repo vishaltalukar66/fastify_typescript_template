@@ -1,0 +1,1 @@
+# fastify_typescript_template
